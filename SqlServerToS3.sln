@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerToS3", "SqlServerToS3\SqlServerToS3.csproj", "{BC2E9817-52CA-481D-83D6-58FBD64C29BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2E9817-52CA-481D-83D6-58FBD64C29BE}.Debug|x86.ActiveCfg = Debug|x86
+		{BC2E9817-52CA-481D-83D6-58FBD64C29BE}.Debug|x86.Build.0 = Debug|x86
+		{BC2E9817-52CA-481D-83D6-58FBD64C29BE}.Release|x86.ActiveCfg = Release|x86
+		{BC2E9817-52CA-481D-83D6-58FBD64C29BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
