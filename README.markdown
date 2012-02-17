@@ -8,4 +8,4 @@ It uses the great LitS3 library to write to S3
 
 Please let me know if you run into any issues with it
 
-The SMO dlls cannot be distributed with the source code due to licensing restrictions. You need to get Microsoft SQL Server 2008 R2 Shared Management Objects from the [Microsoft Download Center](http://www.microsoft.com/download/en/details.aspx?id=16978). Place `Microsoft.SqlServer.ConnectionInfo.dll`, `Microsoft.SqlServer.Management.Sdk.Sfc.dll`, `Microsoft.SqlServer.Smo.dll` and `Microsoft.SqlServer.SqlEnum.dll` in the `lib\SqlServerManagementObjects` directory.
+The SMO dlls cannot be distributed with the source code due to licensing restrictions. You need to get Microsoft SQL Server 2008 R2 Shared Management Objects from the [Microsoft Download Center](http://www.microsoft.com/download/en/details.aspx?id=16978). Place `Microsoft.SqlServer.ConnectionInfo.dll`, `Microsoft.SqlServer.Management.Sdk.Sfc.dll`, `Microsoft.SqlServer.Smo.dll` and `Microsoft.SqlServer.SmoExtended.dll` in the `lib\SqlServerManagementObjects` directory.
